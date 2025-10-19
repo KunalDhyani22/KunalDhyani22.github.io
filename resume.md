@@ -1,11 +1,11 @@
 # Kunal Dhyani
-<mcs252112@cse.iitd.ac.in> | [LinkedIn Profile](www.linkedin.com/in/kunal-dhyani-183386226) | [GitHub Profile](https://github.com/KunalDhyani22)
+<mcs252112@cse.iitd.ac.in> | [LinkedIn Profile](https://www.linkedin.com/in/kunal-dhyani-183386226/) | [GitHub Profile](https://github.com/KunalDhyani22)
 
 ---
 
 ### Education
-*Indian Institute of Technology, Delhi | M.Tech CSE \      Current 
-*Institute of Technology, Gopeshwar | B.Tech CSE  \
+**Indian Institute of Technology, Delhi | M.Tech CSE           Current     \
+**Institute of Technology, Gopeshwar | B.Tech CSE  \
 
 - **Relevant Coursework:** Data Structures & Algorithms, Complexity Theory, Database Management Systems, Operating Systems
 
