@@ -4,35 +4,28 @@
 ---
 
 ### Education
-**Indian Institute of Technology, Delhi | M.Tech CSE           Current     \
-**Institute of Technology, Gopeshwar | B.Tech CSE  \
-
-- **Relevant Coursework:** Data Structures & Algorithms, Complexity Theory, Database Management Systems, Operating Systems
+- **Indian Institute of Technology, Delhi | M.Tech CSE                      2025 - Present \
+- **Institute of Technology, Gopeshwar | B.Tech CSE                         2021 - 2025 \
+     ** CGPA : 7.85/10
+- **Relevant Coursework:** Programming in C, Data Structures & Algorithms, OOPS ,Complexity Theory, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Advance Probability and Linear Algebra
 
 ---
 
 ### Technical Skills
-- **Languages:** C++, Python, SQL, JavaScript
-- **Developer Tools:** Git, Docker, GCC, Valgrind
+- **Languages:** C++, Python, SQL
+- **Developer Tools:** Git, GCC
 - **Frameworks & Libraries:** React, Node.js, Pandas
 
 ---
 
 ### Projects
 
-**Project 1: SAT Solver for Metro Layout** | [GitHub Link](https://github.com/yourusername/project-link)
-- Developed a C++ application to solve metro layout planning problems by converting them to Boolean Satisfiability (SAT) instances.
-- Implemented parsing logic for complex input specifications and integrated a modern SAT solver library.
-- **Technologies Used:** C++, Git, Makefiles
+**Project 1: Disaster Relief Helicopter Routing** | [GitHub Link](https://github.com/KunalDhyani22/Artificial-Intelligence-Disaster-Relief-Helicopter-Routing)
+- Developed a C++ application to make a feasible routing for helicopters to provide reliefing goods in affected villages.
+- Implemented routing using Local Search with Random Restart algorithm.
+- **Technologies Used:** C++, Git
 
-**Project 2: Another Cool Project** | [GitHub Link](https://github.com/yourusername/project-link)
-- Brief description of the project, the problem you solved, and your role.
-- **Technologies Used:** Tech 1, Tech 2, Tech 3
-
----
-
-### Experience
-**Software Engineering Intern** | Company Name | Summer 2025
-- Contributed to [product/team] by implementing [feature/task].
-- Wrote clean, tested, and maintainable code in [Language].
-- Collaborated with team members using Git and [Project Management Tool].
+**Project 2: Game Engine- River and Stones Game** | [GitHub Link](https://github.com/KunalDhyani22/Game-Engine-Stone-and-River)
+- Built an Game Engine for a newly introduced Game from scratch.
+- Implemented strategies and optimal gameplay using Cut-Off Minimax search.
+- **Technologies Used:** Python
