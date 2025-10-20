@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kunal Dhyani - CV</title>
+    <style>
+        /* --- Global Styles --- */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 30px;
+            background-color: #fff;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+
+        /* --- Typography & Links --- */
+        h1, h2, h3 {
+            margin-top: 0;
+            color: #2c3e50;
+        }
+        h2 {
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* --- Header Section --- */
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .contact-info a {
+            margin: 0 15px;
+            font-size: 1.1em;
+        }
+
+        /* --- Section & List Styles --- */
+        section ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        section li {
+            margin-bottom: 15px;
+        }
+        .entry-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            flex-wrap: wrap; /* Allows dates to wrap on small screens */
+        }
+        .entry-header strong {
+            font-size: 1.1em;
+        }
+        .date {
+            font-style: italic;
+            color: #555;
+            flex-shrink: 0; /* Prevents date from shrinking */
+        }
+        .details {
+            margin-left: 20px;
+            color: #555;
+        }
+        .tech-used {
+            font-size: 0.9em;
+            color: #777;
+            margin-top: 5px;
+        }
+
+        /* --- Responsive Design --- */
+        @media (max-width: 600px) {
+            .container {
+                margin: 20px;
+                padding: 20px;
+            }
+            .entry-header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            .date {
+                margin-top: 5px;
+            }
+            .contact-info a {
+                display: block;
+                margin: 5px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>Kunal Dhyani</h1>
+            <div class="contact-info">
+                <a href="mailto:mcs252112@cse.iitd.ac.in">mcs252112@cse.iitd.ac.in</a> |
+                <a href="https://www.linkedin.com/in/kunal-dhyani-183386226/" target="_blank">LinkedIn Profile</a> |
+                <a href="https://github.com/KunalDhyani22" target="_blank">GitHub Profile</a>
+            </div>
+        </header>
+
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <div class="entry-header">
+                        <strong>Indian Institute of Technology, Delhi</strong>
+                        <span class="date">2025 - Present</span>
+                    </div>
+                    <div class="details">M.Tech in Computer Science & Engineering</div>
+                </li>
+                <li>
+                    <div class="entry-header">
+                        <strong>Institute of Technology, Gopeshwar</strong>
+                        <span class="date">2021 - 2025</span>
+                    </div>
+                    <div class="details">B.Tech in Computer Science & Engineering<br>CGPA: 7.85/10</div>
+                </li>
+                 <li>
+                    <strong>Relevant Coursework:</strong>
+                    <div class="details">Programming in C, Data Structures & Algorithms, OOPS, Complexity Theory, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Advanced Probability and Linear Algebra</div>
+                </li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li><strong>Languages:</strong> C++, Python</li>
+                <li><strong>Developer Tools:</strong> Git, GCC, SQL, MongoDB, CLI</li>
+                <li><strong>Frameworks & Libraries:</strong> React, Node.js, Pandas, Numpy</li>
+            </ul>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <div class="entry-header">
+                        <strong>Disaster Relief Helicopter Routing</strong>
+                        <span class="date"><a href="https://github.com/KunalDhyani22/Artificial-Intelligence-Disaster-Relief-Helicopter-Routing" target="_blank">[GitHub Link]</a></span>
+                    </div>
+                    <ul class="details" style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
+                        <li>Developed a C++ application to determine optimal and feasible routes for helicopters to provide relief goods in affected villages.</li>
+                        <li>Implemented routing using the Local Search with Random Restart algorithm.</li>
+                    </ul>
+                    <p class="tech-used"><strong>Technologies Used:</strong> C++, Git</p>
+                </li>
+                <li>
+                    <div class="entry-header">
+                        <strong>Game Engine - River and Stones Game</strong>
+                        <span class="date"><a href="https://github.com/KunalDhyani22/Game-Engine-Stone-and-River" target="_blank">[GitHub Link]</a></span>
+                    </div>
+                    <ul class="details" style="list-style-type: disc; padding-left: 20px; margin-top: 5px;">
+                        <li>Built a game engine from scratch for a newly introduced game.</li>
+                        <li>Implemented strategies and optimal gameplay using Cut-Off Minimax search.</li>
+                    </ul>
+                    <p class="tech-used"><strong>Technologies Used:</strong> Python</p>
+                </li>
+            </ul>
+        </section>
+
+        <section id="achievements">
+            <h2>Achievements</h2>
+            <ul>
+                <li>Achieved an All India Rank (AIR) of 225 in the GATE 2024 Computer Science exam (organized by IISc Bangalore) during my third year of undergraduate studies.</li>
+                <li>Solved 300+ DSA problems on <a href="https://leetcode.com/u/Kunal_Dhyani/" target="_blank">LeetCode</a> and other platforms.</li>
+            </ul>
+        </section>
+
+    </div>
+
+</body>
+</html>
