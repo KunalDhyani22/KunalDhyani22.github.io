@@ -11,7 +11,7 @@
 ---
 
 ### Technical Skills
-- **Languages:** C++, Python, 
+- **Languages:** C++, Python
 - **Developer Tools:** Git, GCC, SQL, MongoDB, CLI
 - **Frameworks & Libraries:** React, Node.js, Pandas, Numpy
 
@@ -31,5 +31,5 @@
 
 ### Achievements
 
-- Got AIR 225 in GATE Computer Science 2024 organised by IISc Bangalore in 3rd year of Engineering.
-- Solved 300+ DSA problems on [Leetcode](https://leetcode.com/u/Kunal_Dhyani/) and other platforms.
+- Achieved an All India Rank (AIR) of 225 in the GATE 2024 Computer Science exam (organized by IISc Bangalore) during my third year of undergraduate studies.
+- Solved 300+ DSA problems on [LeetCode](https://leetcode.com/u/Kunal_Dhyani/) and other platforms.
