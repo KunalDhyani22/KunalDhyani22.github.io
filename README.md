@@ -12,9 +12,9 @@
 ---
 
 ### Technical Skills
-- **Languages:** C++, Python, SQL
-- **Developer Tools:** Git, GCC
-- **Frameworks & Libraries:** React, Node.js, Pandas
+- **Languages:** C++, Python, 
+- **Developer Tools:** Git, GCC, SQL, MongoDB, CLI
+- **Frameworks & Libraries:** React, Node.js, Pandas, Numpy
 
 ---
 
@@ -29,3 +29,8 @@
 - Built an Game Engine for a newly introduced Game from scratch.
 - Implemented strategies and optimal gameplay using Cut-Off Minimax search.
 - **Technologies Used:** Python
+
+### Achievements
+
+- Got AIR 225 in GATE Computer Science 2024 organised by IISc Bangalore in 3rd year of Engineering.
+- Solved 300+ DSA problems on [Leetcode](https://leetcode.com/u/Kunal_Dhyani/) and other platforms.
