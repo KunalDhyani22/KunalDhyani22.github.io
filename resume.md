@@ -4,8 +4,8 @@
 ---
 
 ### Education
-- **Indian Institute of Technology, Delhi | M.Tech CSE**                      2025 - Present\
-- **Institute of Technology, Gopeshwar | B.Tech CSE**                         2021 - 2025\
+- **Indian Institute of Technology, Delhi | M.Tech CSE**                      [2025 - Present]
+- **Institute of Technology, Gopeshwar | B.Tech CSE**                         [2021 - 2025]\
         CGPA : 7.85/10
 - **Relevant Coursework:** Programming in C, Data Structures & Algorithms, OOPS ,Complexity Theory, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Advance Probability and Linear Algebra
 
