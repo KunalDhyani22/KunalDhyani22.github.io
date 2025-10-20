@@ -2,7 +2,7 @@
 
 ---
 
-### Education
+### Education2
 - **Indian Institute of Technology, Delhi | M.Tech CSE**                      [2025 - Present]
 - **Institute of Technology, Gopeshwar | B.Tech CSE**                         [2021 - 2025] \
         CGPA : 7.85/10
