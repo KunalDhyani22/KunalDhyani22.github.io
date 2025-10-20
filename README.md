@@ -1,6 +1,4 @@
-#KD
-
-<mcs252112@cse.iitd.ac.in> | [LinkedIn Profile](https://www.linkedin.com/in/kunal-dhyani-183386226/) | [GitHub Profile](https://github.com/KunalDhyani22)
+[mcs252112@cse.iitd.ac.in](mailto:mcs252112@cse.iitd.ac.in) | [LinkedIn Profile](https://www.linkedin.com/in/kunal-dhyani-183386226/) | [GitHub Profile](https://github.com/KunalDhyani22)
 
 ---
 
