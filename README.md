@@ -3,10 +3,10 @@
 ---
 
 ### Education
-- **Indian Institute of Technology, Delhi | M.Tech CSE**                      [2025 - Present]
-- **Institute of Technology, Gopeshwar | B.Tech CSE**                         [2021 - 2025]\
-        CGPA : 7.85/10
-- **Relevant Coursework:** Programming in C, Data Structures & Algorithms, OOPS ,Complexity Theory, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Advance Probability and Linear Algebra
+- **Indian Institute of Technology, Delhi | M.Tech CSE** [2025 - Present]
+- **Institute of Technology, Gopeshwar | B.Tech CSE** [2021 - 2025]
+  CGPA: 7.85/10
+- **Relevant Coursework:** Programming in C, Data Structures & Algorithms, OOPS, Complexity Theory, Database Management Systems, Operating Systems, Computer Networks, Software Engineering, Advanced Probability and Linear Algebra
 
 ---
 
@@ -20,12 +20,12 @@
 ### Projects
 
 **Project 1: Disaster Relief Helicopter Routing** | [GitHub Link](https://github.com/KunalDhyani22/Artificial-Intelligence-Disaster-Relief-Helicopter-Routing)
-- Developed a C++ application to make a feasible routing for helicopters to provide reliefing goods in affected villages.
-- Implemented routing using Local Search with Random Restart algorithm.
+- Developed a C++ application to determine optimal and feasible routes for helicopters to provide relief goods in affected villages.
+- Implemented routing using the Local Search with Random Restart algorithm.
 - **Technologies Used:** C++, Git
 
-**Project 2: Game Engine- River and Stones Game** | [GitHub Link](https://github.com/KunalDhyani22/Game-Engine-Stone-and-River)
-- Built an Game Engine for a newly introduced Game from scratch.
+**Project 2: Game Engine - River and Stones Game** | [GitHub Link](https://github.com/KunalDhyani22/Game-Engine-Stone-and-River)
+- Built a game engine from scratch for a newly introduced game.
 - Implemented strategies and optimal gameplay using Cut-Off Minimax search.
 - **Technologies Used:** Python
 
